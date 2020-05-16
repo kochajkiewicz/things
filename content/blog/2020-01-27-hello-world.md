@@ -1,6 +1,8 @@
 ---
-title: 'hello, world'
+title: Uncle Moneybags
 date: 2020-01-27T20:47:42.549Z
-description: this is a blog
+description: First thing I made in 2020
 ---
-is it a blog if nobody reads it?
+If you spot one, it's probably because rent is too damn high.
+
+![Image of Uncle Moneybags stickers](/img/monopoly-man-takes-your-rent.jpg "Uncle Moneybags stickers")

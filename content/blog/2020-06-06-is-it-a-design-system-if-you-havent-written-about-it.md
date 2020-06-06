@@ -1,8 +1,8 @@
 ---
 title: Is it a design system if you haven't written about it?
 date: 2020-06-13T17:38:25.591Z
-description: Indeed, ,much has been written. This is not another piece of
-  sponsored blog content about interface audits, though.
+description: Indeed, much has been written. This is not another piece of
+  sponsored content about interface audits.
 ---
 
 
